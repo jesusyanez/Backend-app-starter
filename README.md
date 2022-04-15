@@ -1,12 +1,18 @@
 # Backend App Boilerplate
-Typescript backend app boilerplate. Basic controllers & routers setup.
-Use this to easily start a backend app/API.
+Boilerplate for a simple backend app(API) in TypeScript. 
+
+## Highlights
+
+- Controllers
+- Routers
+- Continuous development
+- Fast API creation
 
 ## Modules
-1. Express
-2. Node
-3. TypeScript
-4. Nodemon
+1. TypeScript - *JavaScript featuring types.*
+2. Node - *Runtime Environment for JavaScript.*
+3. Nodemon - *Integrates continuous development into Node.*
+4. Express - *Back end web application framework for Node.*
 
 ## Install
 #### 1. Clone Repo
